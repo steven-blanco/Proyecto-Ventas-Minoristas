@@ -14,8 +14,8 @@ Haz clic en Open in Colab
 📘 Cómo reproducir el análisis
 
 Abre notebooks/Proyecto_Ventas_Minoristas.ipynb.ipynb
-Ejecuta las celdas en orden
-El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
+Ejecuta las celdas en orden.
+El notebook carga automáticamente el dataset desde /content/Drive/ o desde un enlace público (según corresponda)
 
 🧠 Objetivo del análisis
 
