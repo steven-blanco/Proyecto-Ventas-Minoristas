@@ -1,6 +1,7 @@
 # Proyecto-Ventas-Minoristas
 Este repositorio contiene el análisis realizado del dataset diseñado para entrenar habilidades de análisis exploratorio, generación de KPI's para el negocio y en la capacidad de storytelling con los datos. El dataset simula las ventas mensuales de una tienda minorista con sucursales en varias regiones y con distintas categorías de producto.
 El dataset incluye 120 datos de las compras.
+(https://www.kaggle.com/datasets/dataregina/datasets-de-prctica?select=BI_Ventas_minoristas_dataset.csv)
 
 📂 Contenido del repositorio
 
